@@ -4,16 +4,15 @@
 
 [22,27,16,2,18,6] -> [<b>2</b>,27,16,<b>22</b>,18,6] -> [2,<b>6</b>,16,22,18,<b>27</b>] -> [2,6,<b>16</b>,22,18,27] -> [2,6,16,<b>18</b>,<b>22</b>,27] -> [2,6,16,18,<b>22</b>,27]
 
-##Cevap-2: 
+## Cevap-2: 
 
 O(n²) -> O(6²) -> O(36)
 
 ## Cevap-3:
 
-<b>Average Case:</b> Aradığımız sayının ortada olması
-<n><b>Worst Case:</b> Aradığımız sayının sonda olması
-<n><b>Best Case:</b> Aradığımız sayının dizinin en başında olması
-
+<b>Average Case:</b> Aradığımız sayının ortada olması  
+<b>Worst Case:</b> Aradığımız sayının sonda olması  
+<b>Best Case:</b> Aradığımız sayının dizinin en başında olması  
 
 ## Cevap-4:
 
