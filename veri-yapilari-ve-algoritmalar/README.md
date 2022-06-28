@@ -9,7 +9,7 @@ Bu repo [Patika](https://app.patika.dev/) sitesindeki [Java ile Backend Web Deve
 4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.  
 5. [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
-### [Ödev 2 - HMerge Sort Projesi](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje)
+### [Ödev 2 - Merge Sort Projesi](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje)
 [16,21,11,8,12,22] -> Merge Sort  
 1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.  
 2. Big-O gösterimini yazınız.  
