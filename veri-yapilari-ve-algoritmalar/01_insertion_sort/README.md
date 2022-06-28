@@ -1,5 +1,13 @@
 # Insertion Sort Projesi
 
+[22,27,16,2,18,6] -> Insertion Sort  
+
+1. Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.  
+2. Big-O gösterimini yazınız.  
+3. Time complexity yazınız.  
+4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.  
+5. [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.  
+
 ## Cevap-1:
 
 [22,27,16,2,18,6] -> [<b>2</b>,27,16,<b>22</b>,18,6] -> [2,<b>6</b>,16,22,18,<b>27</b>] -> [2,6,<b>16</b>,22,18,27] -> [2,6,16,<b>18</b>,<b>22</b>,27] -> [2,6,16,18,<b>22</b>,27]
